@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import profileImage from './assets/IMG_20260608_074522.jpg';
+import profileImage from './public/IMG_20260608_074522.jpg';
 
 export default function Home() {
   return (
